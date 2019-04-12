@@ -2,7 +2,8 @@
 
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
 
-LIRI takes the following commands followed by a user input.
+
+LIRI takes the following commands followed by a user input:
 
 concert-this "band name" - BandsInTown
 
