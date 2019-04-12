@@ -4,14 +4,10 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 LIRI takes the following commands followed by a user input.
 
-concert-this "band name"
-BandsInTown
+concert-this "band name" - BandsInTown
 
-spotify-this-song "song name"
-Spotify
+spotify-this-song "song name" - Spotify
 
-movie-this "movie title"
-Movie
+movie-this "movie title" - Movie
 
-do-what-it-says
-Default
+do-what-it-says - Default
