@@ -2,6 +2,9 @@
 
 LIRI is a Language Interpretation and Recognition Interface. Just like iPhone's Siri, LIRI is an app that takes in parameters and returns data. Unlike Siri, which uses spoken language, LIRI is a command line node app.
 
+**Technologies used:** Node.js, Javascript
+**APIs** OMDB, Spotify, BandsInTown
+
 
 # Instructions 
 To use LIRI:
